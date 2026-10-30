@@ -4,6 +4,10 @@
 
 <a href="https://github.com/bluetyde?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00B4D8&center=true&vCenter=true&width=640&height=40&lines=Building+open-source+reactor+tools;Monte+Carlo+%C2%B7+point+kinetics+%C2%B7+thermal+analysis;Small+programs+you+can+run%2C+check%2C+and+learn+from" alt="Typing animation" /></a>
 
+<img src="assets/reactor.webp" width="720" alt="Cherenkov glow of a TRIGA-style reactor core during a pulse, slowed 45 times. Brightness follows the power curve from a KIRK point-kinetics run." />
+
+<sub>Cherenkov glow of a TRIGA-style core during a pulse (slowed 45×). Brightness and readouts come from a run of my own point-kinetics engine, <a href="https://github.com/bluetyde/kirk">KIRK</a>.</sub>
+
 <img src="https://img.shields.io/badge/OpenMC-0077b6?style=for-the-badge" alt="OpenMC" /> <img src="https://img.shields.io/badge/OpenFOAM-03045e?style=for-the-badge" alt="OpenFOAM" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
 
 </div>
