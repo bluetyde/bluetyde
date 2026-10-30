@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="128" viewBox="0 0 410 128" role="img" aria-label="Browser reactor simulator: Point-kinetics simulator for education. Experimental, nothing validated.">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0077b6"/><stop offset="1" stop-color="#00b4d8"/></linearGradient>
+<style>
+.t{font:600 17px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#e6edf3}
+.d{font:13px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#9aa7b4}
+.m{font:12px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#9aa7b4}
+.r{font:600 12px ui-monospace,SFMono-Regular,Consolas,monospace;fill:#00b4d8}
+</style>
+</defs>
+<rect x="0.5" y="0.5" width="409" height="127" rx="10" fill="#0d1b2a" stroke="#1b3a57"/>
+<rect x="0" y="12" width="4" height="40" rx="2" fill="url(#g)"/>
+<text x="22" y="32" class="t">Browser reactor simulator</text>
+<text x="22" y="66" class="d">Point-kinetics simulator for education. Experimental,</text><text x="22" y="84" class="d">nothing validated.</text>
+<circle cx="26" cy="108" r="5" fill="#3572a5"/>
+<text x="38" y="112" class="m">Python</text>
+<text x="390" y="112" class="r" text-anchor="end">raft</text>
+</svg>
